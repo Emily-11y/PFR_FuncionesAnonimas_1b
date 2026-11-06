@@ -1,5 +1,5 @@
 # Trabajo de Consulta: Funciones Anónimas
-**Estudiante:**EMILY ANAHÍ RIVERA SUSCAL
+**Estudiante:**  EMILY ANAHÍ RIVERA SUSCAL
 **Materia:** Programación Funcional · **Trabajo individual** · **Lenguajes:** Scala, Java, Python
 
 Este repositorio explica qué es una función anónima (lambda), en qué tipos de problemas sirve y cómo se escribe en Scala, Java y Python, siempre con código que se puede ejecutar.
