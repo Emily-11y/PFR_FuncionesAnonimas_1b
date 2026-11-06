@@ -1,0 +1,5 @@
+[Laptop, Silla]
+[Laptop, Silla]
+2
+[Laptop, Silla]
+[765.0, 22.5, 108.0]

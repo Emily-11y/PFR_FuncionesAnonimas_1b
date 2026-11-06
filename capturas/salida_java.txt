@@ -1,0 +1,18 @@
+== 1. Seleccion ==
+Productos con precio > 50: [Laptop, Monitor, Audifonos, Silla, Escritorio]
+== 2. Transformacion ==
+Precio con IVA 15%: [Laptop:977.50, Mouse:28.75, Teclado:51.75, Monitor:253.00, Cuaderno:2.88, Esfero:0.92, Calculadora:20.70, Mochila:40.25, Audifonos:69.00, Botella:13.80, Silla:138.00, Escritorio:207.00]
+== 3. Validacion ==
+Existe algun producto con precio > 800: true
+Todos tienen stock > 0: true
+Todos cuestan menos de 500: false
+== 4. Conteo ==
+Productos con stock < 30: 4
+== 5. Extremos ==
+Producto mas caro: Laptop
+Producto con menos stock: Escritorio
+== 6. Aplanamiento ==
+Palabras clave de busqueda: [Laptop, Tecnologia, Mouse, Teclado, Monitor, Cuaderno, Papeleria, Esfero, Calculadora, Mochila, Accesorios, Audifonos, Botella, Silla, Muebles, Escritorio]
+== 7. Acumulacion ==
+Valor total del inventario: 27145.00
+Valor acumulado paso a paso: [10200.00, 12200.00, 14675.00, 19075.00, 19575.00, 19975.00, 20695.00, 21745.00, 24445.00, 25285.00, 26245.00, 27145.00]

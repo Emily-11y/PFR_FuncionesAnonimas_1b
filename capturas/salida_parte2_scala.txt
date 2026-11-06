@@ -1,0 +1,6 @@
+List(Laptop, Silla)
+List(Laptop, Silla)
+2
+List(Laptop, Silla)
+List(765.0, 22.5, 108.0)
+List(425.0, 12.5, 60.0)

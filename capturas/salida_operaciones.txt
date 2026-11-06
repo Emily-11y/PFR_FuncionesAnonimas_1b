@@ -1,0 +1,14 @@
+== Ficha 1: sortBy ==
+Los 3 productos mas caros: [Laptop, Monitor, Escritorio]
+== Ficha 2: groupBy ==
+Productos por categoria: [Accesorios=3, Muebles=2, Papeleria=3, Tecnologia=4]
+== Ficha 3: partition ==
+Economicos (< 50): [Mouse, Teclado, Cuaderno, Esfero, Calculadora, Mochila, Botella]
+Los demas:         [Laptop, Monitor, Audifonos, Silla, Escritorio]
+== Ficha 4: zipWithIndex ==
+Ranking por precio: [1. Laptop, 2. Monitor, 3. Escritorio]
+== 4.3 Combinacion: groupBy -> map -> sortBy ==
+Tecnologia: 19075.00
+Accesorios: 4590.00
+Muebles: 1860.00
+Papeleria: 1620.00
